@@ -1,0 +1,77 @@
+User Experience is the science & ART of Design Product
+
+User Experience เป็นวิทยาศาสตร์​และศิลปะในการออกแบบผลิตภัณฑ์
+
+like a web site or a software application
+
+
+
+0:15 User experiences is the science and art of designing a product like a website
+0:19 or a software application so that it's easy to use.
+0:23 So that it fits the expectation that the user has for it, and so that it meets business goals.
+0:30 There's a whole methodology around designing a user experience,
+0:34 and sometimes people ask me is it worth it to do all that work to design a user experience?
+0:41 So let's talk about the return on investment, or ROI, of doing user experience work.
+0:48 I triple E is a professional organization that puts out reports and does research
+0:54 for programmers, developers, and engineers,
+0:56 and they put out an article called "Why Software Fails".
+1:00 Here's some interesting data from that article.
+1:04 They estimate that the amount of money that is spent worldwide
+1:07 in information technology is estimated at one trillion dollars a year.
+1:13 The percent of projects that are abandoned because they are hopelessly inadequate is
+1:19 up to 15 percent of all projects.
+1:22 The percent of revenue that goes to the IT group is five percent of a company's total revenue
+1:29 and up to ten percent if it's a financial or telecommunications company.
+1:33 The amount of time that programmers spend on rework
+1:37 that is actually avoidable is 50 percent of their time.
+1:41 The costs of fixing an error after development is 100 times
+1:46 that of fixing an error before development of the project is completed.
+1:51 Of the top 12 reasons that projects fail, three of the top 12 are directly related
+1:58 to what we would call user experience or user-centered design work,
+2:03 and those three are badly defined requirements; poor communication among customers, developers,
+2:10 and users; and stakeholder politics.
+2:13 So the kind of work that, that user experience professional, give stakeholder interviews,
+2:18 the use of research, the use of testing, these are center design.
+2:22 These are all things that can fix at least three of those 12 reasons why software fails.
+2:28 You actually can calculate the savings or additional revenue or benefit that you get
+2:34 from approving your user experience in the product.
+2:37 So let's look at some examples to make this more concrete.
+2:41 First example I want to talk about is let's say that you are a micro lending company.
+2:46 So these are often non-profit organizations that look for donations from people,
+2:53 and then they take that money, and they lend it out in very small loans to people
+3:00 around the world who need the money to run a small or home business
+3:05 in order to better their situation.
+3:07 So you have a website, and people donate money at your website, but the searching
+3:12 and donating part of the interface that the website is confusing and hard to use,
+3:17 and you have estimated that 50 customers a day are actually abandoning before donating
+3:23 because of the poor user experience.
+3:25 So let's do some calculations.
+3:27 Each customer, let's say, donates an average of $50 over the course of a year.
+3:32 So you are losing $2,500 a day or $912,500 a year.
+3:38 If you spend $50,000 to fix the user experience issues and another $50,000, let's say,
+3:46 to rewrite the, the code based on those user experience improvements,
+3:51 we can estimate you're going to spend $100,000 improving the user experience.
+3:56 It will take you 40 days or a little over a month then to realize the investment
+4:01 because you've got $912,500 a year that you could improve.
+4:08 So in a little over a month, you've recouped your investment.
+4:12 There are many measurements that would be meaningful, for example, conversion rate.
+4:17 That's the number or the percent increase of visitors to a website who either buy or donate
+4:23 or it doesn't have to have to do with money.
+4:24 It might be they take the action you want them to take like register at the website.
+4:28 Or you might be interested in a decrease in the number of percent of drop off or abandoned.
+4:33 The decrease in the number of calls to the help desk.
+4:37 Or maybe by making the user experience improvement you can reduce the amount
+4:41 of training that's required.
+4:43 For instance, if it's an internal software application.
+4:47 Maybe you want to increase the usage of the software application.
+4:51 Maybe you're looking to save user time, or maybe you want to save development time.
+4:57 Perhaps errors are what's, what you are trying to reduce.
+5:01 Whatever measure you choose, calculating the return on investment is a way
+5:06 to show the value of doing user experience work.
+5:10 Here's one of my favorite quotes from Albert Einstein.
+5:13 I think he said it best.
+5:15 "Any intelligent fool can make things bigger and more complex.
+5:20 It takes a touch of genius and a lot of courage to move in the opposite direction."
+5:27 If you'd like your own copy of this drawing to download and print,
+5:31 go to human factors dot com slash roi poster dot asp.
+

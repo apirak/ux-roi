@@ -1,0 +1,16 @@
+1
+00:00:15,000 --> 00:00:18,000
+User experiences is the science and art of designing a product like a website
+
+2
+00:00:19,000 --> 00:00:20,000
+or a software application so that it's easy to use.
+
+
+0:15 User experiences is the science and art of designing a product like a website
+0:19 or a software application so that it's easy to use.
+0:23 So that it fits the expectation that the user has for it, and so that it meets business goals.
+0:30 There's a whole methodology around designing a user experience,
+0:34 and sometimes people ask me is it worth it to do all that work to design a user experience?
+0:41 So let's talk about the return on investment, or ROI, of doing user experience work.
+0:48 I triple E is a professional organization that puts out reports and does research
